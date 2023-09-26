@@ -10,7 +10,9 @@ public class Shoes {
         moccasins.size = 31;
 
         //I also have a pair of black boots size 32
-        /* Create the boots as a Shoes object */
+        Shoes boots = new Shoes();
+        boots.color = "black";
+        boots.size = 32;
         /* Set the boots color to "black". */
         /* Set the boots size to 32. */
 
